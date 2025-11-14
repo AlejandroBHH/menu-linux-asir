@@ -4,7 +4,7 @@
 # Descripción: Menú interactivo con 30 opciones para tareas
 # de administración básica de Linux, edición, permisos,
 # visualización de archivos y más.
-# Autor: [Tu Nombre]
+# Autor: Alejandro
 # Fecha: 2025-11-14
 #==============================================================
 
