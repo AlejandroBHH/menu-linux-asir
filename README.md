@@ -70,3 +70,14 @@ El script permite desde **crear archivos y carpetas**, **gestionar usuarios y gr
 ```bash
 git clone https://github.com/TuUsuario/menu-linux-asisr.git
 cd menu-linux-asisr
+```
+ 
+
+2. Dar permisos de ejecución al script:
+```bash
+chmod +x scripts/menu_linux.sh
+```
+3. Ejecutar el script:
+```bash
+./scripts/menu_linux.sh
+```
